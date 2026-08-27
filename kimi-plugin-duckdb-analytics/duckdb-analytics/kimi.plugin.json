@@ -1,0 +1,20 @@
+{
+  "$schema": "https://catalog.msh.team/misc/kimi.plugin.schema.json",
+  "name": "duckdb-analytics",
+  "version": "0.1.0",
+  "description": "基于开源项目 DuckDB，在 Kimi 对话中直接对本地 CSV/Parquet/JSON 文件执行 SQL 查询与数据分析，无需安装数据库服务器。适合大数据专业学生做数据分析、SQL 练习和课程实验。",
+  "keywords": [],
+  "author": "Local developer",
+  "license": "MIT",
+  "skillInstructions": "",
+  "interface": {
+    "displayName": "DuckDB 数据分析",
+    "shortDescription": "在 Kimi 里使用 DuckDB 数据分析",
+    "longDescription": "基于开源项目 DuckDB，在 Kimi 对话中直接对本地 CSV/Parquet/JSON 文件执行 SQL 查询与数据分析，无需安装数据库服务器。适合大数据专业学生做数据分析、SQL 练习和课程实验。",
+    "developerName": "Local developer",
+    "websiteURL": "",
+    "iconUrl": "",
+    "category": "PRODUCTIVITY"
+  },
+  "skills": "./skills/"
+}
